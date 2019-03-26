@@ -31,5 +31,5 @@ chmod 777 /var/www/
 chmod 777 /var/www/html/
 chmod 777 /var/www/html/wiki/
 
-echo "Reiniciando Apache"
+#Reiniciando Apache
 sudo service apache2 restart
