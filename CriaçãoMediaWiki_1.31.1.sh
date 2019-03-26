@@ -26,7 +26,7 @@ mv mediawiki-1.31.1 wiki
 #Excluindo pasta
 rm -rf mediawiki-1.31.1.tar.gz
 
-echo "Permissoes diretorios"
+#Permissoes diretorios
 chmod 777 /var/www/
 chmod 777 /var/www/html/
 chmod 777 /var/www/html/wiki/
